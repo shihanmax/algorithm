@@ -17,11 +17,11 @@ def numberOfBoomerangs(points):
         record = {}
         for j in points:
             if i != j:
-                dis = self.dis(i, j)
-                if dis not in record.keys():
-                    record[dis] = 1
+                dist = dis(i, j)
+                if dist not in record.keys():
+                    record[dist] = 1
                 else:
-                    record[dis] += 1
+                    record[dist] += 1
 
         for k, v in record.items():
             solutions += v * (v - 1)  # 如果出现一次，则乘积为0，solution不受影响，不用单独判断v的长度
