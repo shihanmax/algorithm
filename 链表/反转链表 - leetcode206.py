@@ -11,15 +11,15 @@ NULL <- 3 <- 6 <- 9 <- 12
 """
 
 def reverseLinkedList(head):
-    pre = None
-    cur = head
-    while cur != None:
-        next = cur.next
-        cur.next = pre
-        pre = cur
-        cur = next
+    pPrev = None
+    pCurr = head
+    while pCurr != None:
+        pNext = pCurr.next
+        pCurr.next = pPrev
+        pPrev = pCurr
+        pCurr = pNext
 
-    return pre
+    return pPrev
 
 
 head = listNode(3)
@@ -29,3 +29,31 @@ head.next.next.next = listNode(12)
 
 head.printMe()
 reverseLinkedList(head).printMe()
+"""
+//c++ 
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode(int x) : val(x), next(NULL) {}
+ * };
+ */
+class Solution {
+public:
+    ListNode* reverseList(ListNode* head) {
+        ListNode* pPrev = NULL;
+        ListNode* pCurr = head;
+        ListNode* pNext = NULL;
+        
+        while (pCurr) {
+            pNext = pCurr->next;
+            pCurr->next = pPrev;
+            pPrev = pCurr;
+            pCurr = pNext;
+        }
+        
+        return pPrev;
+    }
+};
+"""
