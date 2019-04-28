@@ -9,8 +9,8 @@ def partation(arr, l, r):
 
         if arr[l] != arr[r]:
             arr[l], arr[r] = arr[r], arr[l]
-    arr[l], arr[pivot] = arr[pivot], arr[l]
-    return l
+    arr[r], arr[pivot] = arr[pivot], arr[r]
+    return r
 
 def _quickSort(arr, l, r):
     pivot = partation(arr, l, r)

@@ -16,10 +16,10 @@ def binSearch(arr, num):
             right = mid - 1
     return -1
 
-print(binSearch(arr, 14))
 
 
-# 二分查找拓展：寻找数组中第一个与num相等的数
+
+# 二分查找拓展：寻找有序数组中第一个与num相等的数
 def findFirstEq(arr, num):
     left = 0
     right = len(arr) - 1
@@ -35,7 +35,8 @@ def findFirstEq(arr, num):
         return left
     return -1
 
-# 二分查找拓展：寻找数组中第一个与num相等的数
+
+# 二分查找拓展：寻找有序数组中最后一个与num相等的数
 def findLastEq(arr, num):
     left = 0
     right = len(arr) - 1
@@ -54,6 +55,7 @@ def findLastEq(arr, num):
 
 arr = [1, 1, 3, 5, 7, 14, 14, 14, 25, 36, 47, 66, 90, 90]
 
+print(binSearch(arr, 14))
 print(findFirstEq(arr, 14))
 print(findLastEq(arr, 14))
 

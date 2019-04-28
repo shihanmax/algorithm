@@ -9,8 +9,8 @@ def partation(arr, left, right):
 
         if arr[left] != arr[right]:
             arr[left], arr[right] = arr[right], arr[left]
-    arr[left], arr[pivot] = arr[pivot], arr[left]
-    return left
+    arr[right], arr[pivot] = arr[pivot], arr[right]
+    return right
  
 
 def _findKthLarge(arr, left, right, k):
@@ -30,5 +30,5 @@ def findKthLarge(arr, k):
     return _findKthLarge(arr, 0, len(arr) - 1, k)
 
 
-arr = [1, 23, 78, 6, -5, 78, 3, 3]
+arr = [1, 23, 77, 6, -5, 78, 3, 3]
 print(findKthLarge(arr, 3))
