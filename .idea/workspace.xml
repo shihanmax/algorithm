@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93ed27bf-0413-4a02-b40a-e9bc0ca12231" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/二叉树/treenode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树/判断一棵树是否平衡.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树/求二叉树的深度.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数组/二分查找.py" beforeDir="false" afterPath="$PROJECT_DIR$/数组/二分查找.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数组/快速排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/数组/快速排序.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数组/查找数组中第k大的数.py" beforeDir="false" afterPath="$PROJECT_DIR$/数组/查找数组中第k大的数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/二叉树叶子节点的个数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/二叉树总节点的个数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/二叉树的遍历.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/判断一颗树是否是平衡二叉树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/判断一颗树是否镜像对称.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/判断是否为二叉树子结构.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/判断是否为完全二叉树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/重建二叉树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/二叉树/treenode.py" beforeDir="false" afterPath="$PROJECT_DIR$/二叉树/treenode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/二叉树/判断一棵树是否平衡.py" beforeDir="false" afterPath="$PROJECT_DIR$/二叉树/判断一棵树是否平衡.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/二叉树/求二叉树的深度.py" beforeDir="false" afterPath="$PROJECT_DIR$/二叉树/求二叉树的深度.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,91 +23,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/链表/反转链表 - leetcode206.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/二叉树/求二叉树的深度.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-              <folding>
-                <element signature="e#7#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/二叉树/判断一棵树是否平衡.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/二叉树/treenode.py">
+        <entry file="file://$PROJECT_DIR$/二叉树/重建二叉树.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="140">
+              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数组/快速排序.py">
+        <entry file="file://$PROJECT_DIR$/二叉树/二叉树的遍历.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数组/是否包含重复元素III - leetcode220.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数组/是否包含重复元素 - leetcode219.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数组/最短的连续子数组.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数组/查找数组中第k大的数.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="620">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数组/移动零到数组的最后.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="72">
+              <caret line="27" selection-start-line="27" selection-end-line="38" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -122,10 +60,18 @@
       <find>point_j</find>
       <find>\n13</find>
       <find>1</find>
+      <find>retrival</find>
+      <find>left</find>
+      <find>is_tree_sym</find>
+      <find>tn_s</find>
     </findStrings>
     <replaceStrings>
       <replace>r</replace>
       <replace>j</replace>
+      <replace>traversal</replace>
+      <replace>leaf</replace>
+      <replace>is_mirror</replace>
+      <replace>tn_2</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -163,15 +109,23 @@
         <option value="$PROJECT_DIR$/数组/快速排序.py" />
         <option value="$PROJECT_DIR$/数组/最短的连续子数组.py" />
         <option value="$PROJECT_DIR$/数组/查找数组中第k大的数.py" />
+        <option value="$PROJECT_DIR$/二叉树/__init__.py" />
         <option value="$PROJECT_DIR$/二叉树/treenode.py" />
         <option value="$PROJECT_DIR$/二叉树/求二叉树的深度.py" />
         <option value="$PROJECT_DIR$/二叉树/判断一棵树是否平衡.py" />
+        <option value="$PROJECT_DIR$/二叉树/判断一颗树是否是平衡二叉树.py" />
+        <option value="$PROJECT_DIR$/二叉树/二叉树叶子节点的个数.py" />
+        <option value="$PROJECT_DIR$/二叉树/二叉树总节点的个数.py" />
+        <option value="$PROJECT_DIR$/二叉树/判断一颗树是否镜像对称.py" />
+        <option value="$PROJECT_DIR$/二叉树/判断是否为二叉树子结构.py" />
+        <option value="$PROJECT_DIR$/二叉树/判断是否为完全二叉树.py" />
+        <option value="$PROJECT_DIR$/二叉树/二叉树的遍历.py" />
+        <option value="$PROJECT_DIR$/二叉树/重建二叉树.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="794" />
-    <option name="width" value="646" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -182,49 +136,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="201901-Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="201901-Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="201901-Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="201901-Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="二叉树" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="201901-Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="201901-Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="堆栈" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="201901-Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="201901-Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="字符串" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="201901-Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="201901-Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="数组" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="201901-Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="201901-Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="链表" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="位运算" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -244,8 +184,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.求二叉树的深度">
-    <configuration name="最佳股票买卖时间 - leetcode121" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.重建二叉树">
+    <configuration name="二叉树的遍历" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="201901-algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,12 +193,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数组" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/二叉树" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数组/最佳股票买卖时间 - leetcode121.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/二叉树/二叉树的遍历.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,7 +207,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="移动零到数组的最后" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="重建二叉树" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="201901-algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,12 +215,78 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数组" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/二叉树" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数组/移动零到数组的最后.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/二叉树/重建二叉树.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="二叉树总节点的个数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="201901-algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/二叉树" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/二叉树/二叉树总节点的个数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="判断是否为二叉树子结构" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="201901-algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/二叉树" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/二叉树/判断是否为二叉树子结构.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="判断是否为完全二叉树" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="201901-algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/二叉树" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/二叉树/判断是否为完全二叉树.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -376,34 +382,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="查找数组中第k大的数" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="201901-algorithms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数组" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数组/查找数组中第k大的数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.求二叉树的深度" />
-        <item itemvalue="Python.移动零到数组的最后" />
-        <item itemvalue="Python.查找数组中第k大的数" />
-        <item itemvalue="Python.最佳股票买卖时间 - leetcode121" />
+        <item itemvalue="Python.重建二叉树" />
+        <item itemvalue="Python.二叉树的遍历" />
+        <item itemvalue="Python.判断是否为完全二叉树" />
+        <item itemvalue="Python.判断是否为二叉树子结构" />
+        <item itemvalue="Python.二叉树总节点的个数" />
       </list>
     </recent_temporary>
   </component>
@@ -419,6 +404,9 @@
       <updated>1548168588489</updated>
       <workItem from="1556419840227" duration="4947000" />
       <workItem from="1556461611817" duration="1392000" />
+      <workItem from="1562595842959" duration="18000" />
+      <workItem from="1562595873967" duration="16000" />
+      <workItem from="1562595891379" duration="7056000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode 415">
       <created>1550410805401</created>
@@ -473,18 +461,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6339000" />
+    <option name="totallyTimeSpent" value="13429000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="799" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11087268" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19456366" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.17831326" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.386747" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
@@ -518,6 +506,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/201901_Algorithms$k.coverage" NAME="查找数组中第k大的数 Coverage Results" MODIFIED="1556425086850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组" />
     <SUITE FILE_PATH="coverage/201901_Algorithms$.coverage" NAME="求二叉树的深度 Coverage Results" MODIFIED="1556462799529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/二叉树" />
+    <SUITE FILE_PATH="coverage/algorithms$.coverage" NAME="重建二叉树 Coverage Results" MODIFIED="1562603407882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/二叉树" />
     <SUITE FILE_PATH="coverage/201901_Algorithms$___leetcode121.coverage" NAME="最佳股票买卖时间 - leetcode121 Coverage Results" MODIFIED="1556422318074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组" />
   </component>
   <component name="editorHistoryManager">
@@ -617,10 +606,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/链表/反转链表 - leetcode206.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/数组/快速排序.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
@@ -634,57 +630,119 @@
     <entry file="file://$PROJECT_DIR$/数组/是否包含重复元素 - leetcode219.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/数组/最短的连续子数组.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数组/查找数组中第k大的数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/数组/移动零到数组的最后.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/链表/反转链表 - leetcode206.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/二叉树/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/二叉树/treenode.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="360">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/查找数组中第k大的数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/判断一颗树是否是平衡二叉树.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="27" selection-start-line="27" selection-end-line="27" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/二叉树叶子节点的个数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/判断一颗树是否镜像对称.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/判断一棵树是否平衡.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/判断是否为二叉树子结构.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/二叉树/求二叉树的深度.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="36">
+          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
           <folding>
-            <element signature="e#7#13#0" expanded="true" />
+            <element signature="e#1#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/二叉树/判断一棵树是否平衡.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/二叉树/二叉树总节点的个数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/判断是否为完全二叉树.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/二叉树的遍历.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="27" selection-start-line="27" selection-end-line="38" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/重建二叉树.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

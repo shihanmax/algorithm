@@ -2,9 +2,10 @@
 import queue
 from treenode import TreeNode
 
+
 # 递归版本
 def tree_depth(pRoot):
-    if pRoot==None:
+    if pRoot is None:
         return 0
 
     depth_left = tree_depth(pRoot.left)
