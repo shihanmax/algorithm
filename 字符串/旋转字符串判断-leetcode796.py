@@ -17,3 +17,21 @@ public:
     }
 };
 """
+
+
+def is_rotated_string(str_a, str_b):
+    if len(str_a) != len(str_b):
+        return False
+
+    if str_a == str_b:
+        return True
+
+    dump_str_a = str_a + str_a
+
+    return dump_str_a.find(str_b) is not None
+
+
+str_a = 'abcde'
+str_b = 'cdeab'
+
+print(is_rotated_string(str_a, str_b))

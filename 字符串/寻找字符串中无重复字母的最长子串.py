@@ -5,7 +5,8 @@ bbbbb -> b
 pwwkew -> wke
 """
 
-def findLongestSubstring(s):
+
+def find_longest_substring(s):
     freq = [0] * 256  # 存放字符的ascii码值
     left = 0
     right = -1  # 滑动窗口是[l, r]
@@ -18,10 +19,11 @@ def findLongestSubstring(s):
         else:
             freq[ord(s[left])] -= 1
             left += 1
+
         res = max(res, right - left + 1)
 
     return res
 
-s = 'abcseabcbad'
-print(findLongestSubstring(s))
 
+s = 'abcseabcbad'
+print(find_longest_substring(s))

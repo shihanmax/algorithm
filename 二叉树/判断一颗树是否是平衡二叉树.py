@@ -1,5 +1,7 @@
 from treenode import TreeNode
 
+# 平衡的定义：左子树和右子树的最大高度差不大于1
+
 
 def tree_depth(tn):
     if tn is None:
@@ -14,6 +16,7 @@ def tree_depth(tn):
 def is_balanced_binary_tree(tn):
     if tn is None:
         return True
+
     left = tree_depth(tn.left)
     right = tree_depth(tn.right)
 

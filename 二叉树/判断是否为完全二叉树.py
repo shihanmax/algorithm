@@ -17,17 +17,21 @@ def is_complete_tree(tn):
 
         # 左子节点或右子节点为空时，就将flag设置为True
 
-        if tmp.left and not flag:
+        if tmp.left and not flag:  # 左不为空，且flag为False，将左子节点加入队列
             q.put(tmp.left)
-        elif tmp.left and flag:
+
+        elif tmp.left and flag:  # 左不为空且flag为True
             return False
-        elif not tmp.left:
+
+        elif not tmp.left:  # 左为空
             flag = True
 
         if tmp.right and not flag:
             q.put(tmp.right)
+
         elif tmp.right and flag:
             return False
+
         elif not tmp.right:
             flag = True
 

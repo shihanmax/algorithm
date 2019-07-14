@@ -17,8 +17,6 @@ def binSearch(arr, num):
     return -1
 
 
-
-
 # 二分查找拓展：寻找有序数组中第一个与num相等的数
 def findFirstEq(arr, num):
     left = 0

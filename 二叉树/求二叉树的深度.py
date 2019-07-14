@@ -16,7 +16,7 @@ def tree_depth(pRoot):
 
 # 非递归版本
 def tree_depth2(pRoot):
-    if pRoot == None:
+    if pRoot is None:
         return 0
 
     q = queue.Queue()
