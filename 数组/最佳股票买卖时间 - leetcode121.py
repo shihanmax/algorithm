@@ -1,17 +1,19 @@
 prices = [7,1,5,3,6,4]
 
+
 def bestProfit(prices):
     if len(prices) == 0:
         return 0
 
-    result = 0
+    profit = 0
     buy = prices[0]
 
     for price in prices:
-        result = max(result, price - buy)
+        profit = max(profit, price - buy)
         buy = min(buy, price)
 
-    return result
+    return profit
+
 
 print(bestProfit(prices))
 
